@@ -1,0 +1,59 @@
+GIMP Palette
+Name: SunshineDaze
+# Standard Palette
+255 255 255 #FFFFFF White
+250 250 250 #fafafa Grey-050
+245 245 245 #f5f5f5 Grey-100
+238 238 238 #eeeeee Grey-200
+224 224 224 #e0e0e0 Grey-300
+189 189 189 #bdbdbd Grey-400
+158 158 158 #9e9e9e Grey-500
+117 117 117 #757575 Grey-600
+97  97  97  #616161 Grey-700
+66  66  66  #424242 Grey-800
+33  33  33  #212121 Grey-900
+0   0   0   #000000 Black
+# Copper Palette
+131  51  22 #833316 Copper-900
+148  48  29 #943a1d Copper-800
+161  63  33 #a13f21 Copper-700
+177  72  38 #b14826 Copper-600
+190  80  39 #be5027 Copper-500
+192  90  64 #c05a40 Copper-400
+190 114 100 #be7264 Copper-300 
+211 151 141 #d3978d Copper-200
+238 202 201 #eecac9 Copper-100
+248 234 234 #f8eaea Copper-050
+# Amaranth Palette
+136 13 78 #880d4e Amaranth-900
+173 19 86 #ad1356 Amaranth-800
+194 24 90 #c2185a Amaranth-700
+216 27 95 #d81b5f Amaranth-600
+233 30 98 #e91e62 Amaranth-500
+236 64 121 #ec4079 Amaranth-400
+240 98 145 #f06291 Amaranth-300
+244 143 176 #f48fb0 Amaranth-200
+248 187 208 #f8bbd0 Amaranth-100
+252 228 236 #fce4ec Amaranth-050
+# Kornikova Palette
+253 99 0 #fd6300 Kornikova-900
+253 133 0 #fd8500 Kornikova-800
+253 151 0 #fd9700 Kornikova-700
+253 170 0 #fdaa00 Kornikova-600
+253 184 0 #fdb800 Kornikova-500
+254 194 8 #fec208 Kornikova-400
+254 206 64 #fece40 Kornikova-300
+255 219 120 #ffdb78 Kornikova-200
+255 233 173 #ffe9ad Kornikova-100
+255 247 223 #fff7df Kornikova-050
+# Jade Palette
+0 129 61 #00813d Jade-900
+0 162 85 #00a255 Jade-800
+0 180 97 #00b461 Jade-700
+0 200 112 #00c870 Jade-600
+0 217 124 #00d97c Jade-500
+0 226 143 #00e28f Jade-400
+30 233 165 #1ee9a5 Jade-300
+129 239 192 #81efc0 Jade-200
+183 245 217 #b7f5d9 Jade-100
+226 252 240 #e2fcf0 Jade-050

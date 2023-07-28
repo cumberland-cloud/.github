@@ -1,0 +1,57 @@
+GIMP Palette
+Name: CosmicRetro
+# CarrotOrange
+210  94  24 #d25e19 CarrotOrange-900
+221 117  29 #dd751d CarrotOrange-800
+228 131  33 #e48321 CarrotOrange-700
+234 145  37 #EA9125 CarrotOrange-600
+238 156  41 #ee9c29 CarrotOrange-500
+240 170  59 #f0aa3b CarrotOrange-400
+242 185  90 #f2b95a CarrotOrange-300
+245 205 136 #f5cd88 CarrotOrange-200
+249 225 183 #f9e1b7 CarrotOrange-100
+252 243 226 #fcf3e2 CarrotOrange-050
+# BlueSmoke
+ 49  56  56 #313838 BlueSmoke-900
+ 66  78  77 #424e4d BlueSmoke-800
+131 152 150 #516260 BlueSmoke-700
+ 96 118 116 #607674 BlueSmoke-600
+108 134 132 #6C8684 BlueSmoke-500
+131 152 150 #839896 BlueSmoke-400
+155 171 169 #9baba9 BlueSmoke-300
+186 194 193 #bac2c1 BlueSmoke-200
+216 218 217 #d8dad9 BlueSmoke-100
+240 240 240 #f0f0f0 BlueSmoke-050
+# Terracotta
+174  38   0 #ae2600 Terracotta-900
+189  47   8 #bd2f08 Terracotta-800
+202  54  17 #ca3611 Terracotta-700
+219  64  21 #db4015 Terracotta-600
+233  75  19 #e94b13 Terracotta-500
+232  86  55 #e85637 Terracotta-400
+226 114  97 #e27261 Terracotta-300
+238 153 141 #ee998d Terracotta-200
+255 204 202 #ffccca Terracotta-100
+255 234 235 #ffeaeb Terracotta-050
+# Sambuca
+ 52  33  18 #342112 Sambuca-900
+ 67  46  28 #432e1c Sambuca-800
+ 80  58  36 #503a24 Sambuca-700
+ 94  70  45 #5e462d Sambuca-600
+104  80   5 #685033 Sambuca-500
+127 104  80 #7f6850 Sambuca-400
+150 130 110 #96826e Sambuca-300
+182 165 150 #b6a596 Sambuca-200
+212 201 189 #d4c9bd Sambuca-100
+240 234 225 #f0eae1 Sambuca-050
+# SideCar
+208  93   0 #d05d00 SideCar-900
+209 122   0 #d17a00 SideCar-800
+210 138   0 #d28a00 SideCar-700
+210 155   0 #d29b00 SideCar-600
+209 167   0 #d1a700 SideCar-500
+214 179  33 #d6b321 SideCar-400
+220 192  75 #dcc04b SideCar-300
+228 209 130 #e4d182 SideCar-200
+238 227 182 #eee3b6 SideCar-100
+248 244 226 #f8f4e2 SideCar-059
